@@ -1,0 +1,53 @@
+[
+    {
+      "question": "Which is the highest mountain peak in the world?",
+      "options": ["Mount Everest", "Mount Kilimanjaro", "Mount McKinley", "Mount Elbrus"],
+      "answer": "Mount Everest"
+    },
+    {
+      "question": "Under which Article of the Indian Constitution is a National Emergency declared?",
+      "options": ["Article 352", "Article 356", "Article 360", "Article 370"],
+      "answer": "Article 352"
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "options": ["Seoul", "Tokyo", "Beijing", "Bangkok"],
+      "answer": "Tokyo"
+    },
+    {
+      "question": "What is the largest planet in our Solar System?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "O2", "CO2", "NaCl"],
+      "answer": "H2O"
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "Leo Tolstoy", "William Shakespeare", "Mark Twain"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "What is the speed of light?",
+      "options": ["299,792 km/s", "150,000 km/s", "300,000 km/s", "280,000 km/s"],
+      "answer": "299,792 km/s"
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "answer": "2"
+    },
+    {
+      "question": "Who was the first woman Prime Minister of India?",
+      "options": ["Sarojini Naidu", "Sonia Gandhi", "Sushma Swaraj", "Indira Gandhi"],
+      "answer": "Indira Gandhi"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Claude Monet", "Leonardo da Vinci", "Pablo Picasso"],
+      "answer": "Leonardo da Vinci"
+    }
+  ]
+  
